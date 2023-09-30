@@ -1,17 +1,12 @@
-# Multivendor Ecommerce Platform (Inspired by Walmart and Jumia)
+# Amazon Theme for Magento 2
 
-Welcome to our open-source multivendor ecommerce platform, combining the design elegance of Walmart and the powerful features of Jumia.com.gh. This platform is designed to provide a user-friendly interface for buyers while offering vendors a comprehensive set of tools to showcase and sell their products.
+The repository includes Home Page implementation of the Amazon.com website for Magento 2.
 
-## Features
+![Amazon Theme](docs/amazon-theme.png)
+![Amazon Theme](docs/discover.png)
+![Amazon Theme](docs/gifts.png)
+![Amazon Theme](docs/footer.png)
 
-- **Walmart-Inspired Design:** Clean and intuitive interface, drawing inspiration from Walmart's design aesthetics.
-- **Jumia-Like Functionalities:** Multivendor support, secure payment gateways, product categorization, user reviews, and community collaboration.
-- **Seamless Shopping:** Intuitive navigation, prominent search features, and visually appealing product displays.
-- **Vendor Empowerment:** Comprehensive vendor dashboards, sales analytics, and order management tools.
-- **Community Collaboration:** Collaboration features for developers and vendors to create a diverse and thriving online marketplace.
+## Installation
 
-## Getting Started
-
-To get started with our platform, follow these steps:
-
-1. **Clone the Repository:**
+Enable theme via Magento Admin -> Content -> Design -> Configuration page.
